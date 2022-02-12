@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Kit voopoo argus GT",
+    "precio": 500,
+    "category": "vaporizadores",
+    "image": "./images/productos/voopooargus.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Kit voopoo drag X",
+    "precio": 200,
+    "category": "vaporizadores",
+    "image": "./images/productos/voopoodrag.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Kit vaporesso luxe II",
+    "precio": 300,
+    "category": "vaporizadores",
+    "image": "./images/productos/vaporessoluxe.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Resistencia vaporesso GT Mesh 0.180HM",
+    "precio": 700,
+    "category": "resistencias",
+    "image": "./images/productos/resivaporessogt.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Resistencia vaporesso GTX",
+    "precio": 800,
+    "category": "resistencias",
+    "image": "./images/productos/resivaporessogtx.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Liquido jam monster Blackberry 100ml",
+    "precio": 1000,
+    "category": "liquidos",
+    "image": "./images/productos/jamblackberry.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Liquido kings crest Duches 120ML",
+    "precio": 150,
+    "category": "liquidos",
+    "image": "./images/productos/kingscrestliquido.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Liquido oplus 30ML",
+    "precio": 230,
+    "category": "liquidos",
+    "image": "./images/productos/liquidoplus.png"
+  }
+]
